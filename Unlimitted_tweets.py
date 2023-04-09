@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  9 14:08:43 2023
 
-@author: papr8016
-"""
 # !pip install tweepy
 # !pip install snscrape
 %reset -f
